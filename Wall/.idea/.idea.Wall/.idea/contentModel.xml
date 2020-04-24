@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Wall.-1019665892.00" t="ExcludeRecursive" />
+    <e p="D:\Work\Proj\Wall" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Area" t="Include">
+            <e p="Block.cs" t="Include" />
+            <e p="BlockState" t="Include">
+              <e p="Moving.cs" t="Include" />
+              <e p="Plane.cs" t="Include" />
+              <e p="ReadyToMove.cs" t="Include" />
+              <e p="State.cs" t="Include" />
+              <e p="WasMoved.cs" t="Include" />
+            </e>
+            <e p="Cell.cs" t="Include" />
+            <e p="InputController.cs" t="Include" />
+            <e p="Wall.cs" t="Include" />
+          </e>
+          <e p="Config" t="Include">
+            <e p="Config.cs" t="Include" />
+            <e p="Const.cs" t="Include" />
+            <e p="ScriptableObjectBase.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameResult.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Wall.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
